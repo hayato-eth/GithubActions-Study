@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: vinicius-r-s/CI-CD-Study:latest
+          tags: vinicius-r-s/ci-cd-study:latest
